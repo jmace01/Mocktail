@@ -4,7 +4,7 @@
  * 
  * Mocktail : A PHP light-weight PHP Mock library 
  * 
- * @author Jason Mace
+ * @author Jason Mace (github.com/jmace01)
  * @copyright 2016 by Jason Mace
  * 
  * 
